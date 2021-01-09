@@ -1,4 +1,4 @@
-# Make file executabel in MAC
+# Make file executable in MAC
 
 chmod +x FileName
 
